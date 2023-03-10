@@ -1,0 +1,15 @@
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\bin\Debug\net6.0\Deep_and_Shallow_Copy.exe
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\bin\Debug\net6.0\Deep_and_Shallow_Copy.deps.json
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\bin\Debug\net6.0\Deep_and_Shallow_Copy.runtimeconfig.json
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\bin\Debug\net6.0\Deep_and_Shallow_Copy.dll
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\bin\Debug\net6.0\Deep_and_Shallow_Copy.pdb
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.csproj.AssemblyReference.cache
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.AssemblyInfoInputs.cache
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.AssemblyInfo.cs
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.csproj.CoreCompileInputs.cache
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.dll
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\refint\Deep_and_Shallow_Copy.dll
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.pdb
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\Deep_and_Shallow_Copy.genruntimeconfig.cache
+C:\Users\Legion_5i\source\repos\Deep_and_Shallow_Copy\obj\Debug\net6.0\ref\Deep_and_Shallow_Copy.dll

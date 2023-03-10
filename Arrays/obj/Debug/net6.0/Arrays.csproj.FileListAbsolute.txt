@@ -1,0 +1,17 @@
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+C:\Users\Legion_5i\source\repos\Arrays\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Legion_5i\source\repos\Arrays\obj\Debug\net6.0\Arrays.csproj.CopyComplete

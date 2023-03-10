@@ -1,0 +1,15 @@
+C:\Users\Legion_5i\source\repos\ForLoop\bin\Debug\net6.0\ForLoop.exe
+C:\Users\Legion_5i\source\repos\ForLoop\bin\Debug\net6.0\ForLoop.deps.json
+C:\Users\Legion_5i\source\repos\ForLoop\bin\Debug\net6.0\ForLoop.runtimeconfig.json
+C:\Users\Legion_5i\source\repos\ForLoop\bin\Debug\net6.0\ForLoop.dll
+C:\Users\Legion_5i\source\repos\ForLoop\bin\Debug\net6.0\ForLoop.pdb
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.csproj.AssemblyReference.cache
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.AssemblyInfo.cs
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.dll
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\refint\ForLoop.dll
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.pdb
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ForLoop.genruntimeconfig.cache
+C:\Users\Legion_5i\source\repos\ForLoop\obj\Debug\net6.0\ref\ForLoop.dll

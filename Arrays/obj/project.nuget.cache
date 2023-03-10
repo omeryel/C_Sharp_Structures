@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xHsMtsj4fLB2XrAAaRR9gMpDXxv+WRgCG2oJh7vPGyCnMYLo3pLbb3WFuuJTJz94+FNxovfK7joPT7yY1ZFSuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Legion_5i\\source\\repos\\Arrays\\Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion_5i\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Legion_5i\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
